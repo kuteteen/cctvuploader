@@ -21,10 +21,9 @@ var getDate = module.exports = {
     day = (day < 10 ? "0" : "") + day;
 
     var time = year + ":" + month + ":" + day + ":" + hour + ":" + min + ":" + sec;
-//    console.log(time);
+
     timecb(time);
     return time;
 
   }
 }
-//getDate.getDateTime();
