@@ -19,5 +19,5 @@ Some basic instructions are below, but any common queries will be put into the w
 3) You need to change the Source Folder and Google Drive Folder IDs to yours and then you should be good to go.
 </P>
 <p>
-I am a NODE amateur so I realise the code might not be the best, so any suggestions welcome!
+I am a Node amateur so I realise the code might not be the best, so any suggestions welcome!
 </P>
