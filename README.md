@@ -1,6 +1,6 @@
 # cctvuploader
 <P>
-This project is written in NODE.JS and is designed to upload Image or Video files to Google Drive. It requires the FS, MIME & Googleapis Node packages installing, which you can get from NPM using the below links. 
+This project is written in Node.js and is designed to upload Image or Video files to Google Drive. It requires the FS, MIME & Googleapis Node packages installing, which you can get from NPM using the below links. 
 </P>
 <p>
 https://www.npmjs.com/package/googleapis<BR/>
